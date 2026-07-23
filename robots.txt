@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nexoratech2.github.io/nexoratech/sitemap.xml
