@@ -1,0 +1,29 @@
+# Nexora Tech
+
+> Nexora Tech is a web design and digital marketing agency founded by Christopher. It builds custom Shopify stores, WordPress websites, and Wix sites, and delivers SEO, social media marketing, Google Ads, Meta Ads, email marketing, and brand identity design — for clients worldwide, working remotely via WhatsApp, email, and video call.
+
+Nexora Tech has completed 150+ projects with a 98% client satisfaction rate. Every project includes built-in SEO, a marketing strategy (not just design), and 30 days of free post-launch support. Typical delivery time is 7–14 days. Pricing starts at $499.
+
+## Services
+- Shopify store development
+- WordPress website design and development
+- Wix website design
+- SEO (search engine optimization)
+- Social media marketing
+- Google Ads and Meta Ads management
+- Email marketing
+- Brand identity and logo design
+
+## Key pages
+- Homepage: https://nexoratech2.github.io/nexoratech/
+- Portfolio: https://nexoratech2.github.io/nexoratech/#portfolio
+- Services: https://nexoratech2.github.io/nexoratech/#services
+- Pricing: https://nexoratech2.github.io/nexoratech/#pricing
+- Contact: https://nexoratech2.github.io/nexoratech/#contact
+
+## Contact
+- Email: nexoratech221@gmail.com
+- WhatsApp: +2349068643075
+
+## Founder
+Christopher — Founder & Lead Web Designer, 5+ years of experience building Shopify, WordPress, and Wix sites and running SEO/digital marketing strategy for 150+ businesses worldwide.
