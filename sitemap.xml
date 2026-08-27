@@ -1,33 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://sitemaps.org">
+  <!-- Main Home Page -->
   <url>
     <loc>https://nexoratech2.github.io/nexoratech/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
+  <!-- Blog Directory Root -->
   <url>
-    <loc>https://nexoratech2.github.io/nexoratech/blog/index.html</loc>
+    <loc>https://github.io</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
   </url>
-  <url><loc>https://nexoratech2.github.io/nexoratech/blog/shopify-vs-wordpress-vs-wix.html</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://nexoratech2.github.io/nexoratech/blog/how-much-does-shopify-store-cost.html</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://nexoratech2.github.io/nexoratech/blog/wordpress-vs-wix-small-business.html</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://nexoratech2.github.io/nexoratech/blog/is-shopify-worth-it-small-store.html</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://nexoratech2.github.io/nexoratech/blog/squarespace-vs-wordpress.html</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://nexoratech2.github.io/nexoratech/blog/website-budget-2026.html</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://nexoratech2.github.io/nexoratech/blog/why-cheap-websites-cost-more.html</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://nexoratech2.github.io/nexoratech/blog/freelancer-vs-agency-vs-diy-cost.html</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://nexoratech2.github.io/nexoratech/blog/how-much-does-seo-cost.html</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://nexoratech2.github.io/nexoratech/blog/shopify-store-mistakes.html</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://nexoratech2.github.io/nexoratech/blog/why-website-isnt-converting.html</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://nexoratech2.github.io/nexoratech/blog/seo-myths-hurting-rankings.html</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://nexoratech2.github.io/nexoratech/blog/wordpress-security-mistakes.html</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://nexoratech2.github.io/nexoratech/blog/how-to-choose-web-designer.html</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://nexoratech2.github.io/nexoratech/blog/how-long-does-website-take.html</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://nexoratech2.github.io/nexoratech/blog/improve-website-page-speed.html</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://nexoratech2.github.io/nexoratech/blog/write-product-descriptions-that-sell.html</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://nexoratech2.github.io/nexoratech/blog/google-ads-vs-meta-ads.html</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://nexoratech2.github.io/nexoratech/blog/first-100-customers-online-store.html</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://nexoratech2.github.io/nexoratech/blog/seo-vs-paid-ads-do-you-need-both.html</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <!-- Blog Articles -->
+  <url>
+    <loc>https://github.ioshopify-vs-wordpress-vs-wix.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://github.iohow-much-does-shopify-store-cost.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://github.iowordpress-vs-wix-small-business.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://github.iois-shopify-worth-it-small-store.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://github.iosquarespace-vs-wordpress.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://github.iowebsite-budget-2026.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://github.iowhy-cheap-websites-cost-more.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://github.iofreelancer-vs-agency-vs-diy-cost.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://github.iohow-much-does-seo-cost.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://github.ioshopify-store-mistakes.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://github.iowhy-website-isnt-converting.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://github.ioseo-myths-hurting-rankings.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://github.iowordpress-security-mistakes.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://github.iohow-to-choose-web-designer.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://github.iohow-long-does-website-take.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://github.ioimprove-website-page-speed.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://github.iowrite-product-descriptions-that-sell.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://github.iogoogle-ads-vs-meta-ads.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://github.iofirst-100-customers-online-store.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://github.ioseo-vs-paid-ads-do-you-need-both.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
